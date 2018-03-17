@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  text-align: center;
+  background: #E9E581;
+  /* background: #ffd900; */
+  font-family: 'Concert One', cursive;
+  color: #2B2B2B;
+}
+
+button {
+  padding: 14px 40px;
+  background-color: #DE1B1B;
+  border-radius: 10%;
+}
+
+button:hover {
+  padding: 18px 44px;
+}
+
+.card {
+  font-size: 1.5em;
+}
+
+.gameDiv {
+  /* background-color: #edcd00;
+  margin: auto;
+  width: 70%; */
+  margin-bottom: 15px;
+  /* border-radius: 10%; */
+}
